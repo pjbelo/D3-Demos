@@ -1,0 +1,14 @@
+{
+  "name": "@ncastaldo/change-of-hospital-beds-in-ue",
+  "main": "bc6b320a015e9a4b@494.js",
+  "version": "494.0.0",
+  "homepage": "https://observablehq.com/@ncastaldo/change-of-hospital-beds-in-ue",
+  "author": {
+    "name": "ncastaldo",
+    "url": "https://observablehq.com/@ncastaldo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

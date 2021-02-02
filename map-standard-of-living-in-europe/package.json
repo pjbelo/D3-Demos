@@ -1,0 +1,14 @@
+{
+  "name": "@djr4/standard-of-living-in-europe",
+  "main": "fbac996cb99117aa@902.js",
+  "version": "902.0.0",
+  "homepage": "https://observablehq.com/@djr4/standard-of-living-in-europe",
+  "author": {
+    "name": "Djordje Rakonjac",
+    "url": "https://observablehq.com/@djr4"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

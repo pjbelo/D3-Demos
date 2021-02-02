@@ -1,0 +1,14 @@
+{
+  "name": "@d3/marimekko-chart",
+  "main": "9b59e63da70c75ec@186.js",
+  "version": "186.0.0",
+  "homepage": "https://observablehq.com/@d3/marimekko-chart",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

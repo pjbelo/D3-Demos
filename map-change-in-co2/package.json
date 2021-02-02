@@ -1,0 +1,14 @@
+{
+  "name": "@djr4/change-in-co2-and-gdp-ppp-over-years",
+  "main": "9e6f44d9a4aa56ae@1106.js",
+  "version": "1106.0.0",
+  "homepage": "https://observablehq.com/@djr4/change-in-co2-and-gdp-ppp-over-years",
+  "author": {
+    "name": "Djordje Rakonjac",
+    "url": "https://observablehq.com/@djr4"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

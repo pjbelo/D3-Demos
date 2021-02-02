@@ -1,0 +1,14 @@
+{
+  "name": "@d3/slope-chart",
+  "main": "17557a59bd50940c@184.js",
+  "version": "184.0.0",
+  "homepage": "https://observablehq.com/@d3/slope-chart",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

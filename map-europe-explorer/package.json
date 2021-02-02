@@ -1,0 +1,14 @@
+{
+  "name": "@bagami/factbook-json-europe-explorer",
+  "main": "d5545cb097fbb0a2@214.js",
+  "version": "214.0.0",
+  "homepage": "https://observablehq.com/@bagami/factbook-json-europe-explorer",
+  "author": {
+    "name": "Veli",
+    "url": "https://observablehq.com/@bagami"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

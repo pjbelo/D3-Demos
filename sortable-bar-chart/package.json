@@ -1,0 +1,14 @@
+{
+  "name": "@d3/sortable-bar-chart",
+  "main": "a1836d740ee4badd@255.js",
+  "version": "255.0.0",
+  "homepage": "https://observablehq.com/@d3/sortable-bar-chart",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
